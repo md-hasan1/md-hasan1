@@ -83,9 +83,9 @@
 
 
 <p align="center">
-  <a  href="https://www.linkedin.com/in/md-hasan-b6523b220/"><img height="75" src="https://i.ibb.co/mSWzG5k/Linkedin.png"></a>
-   <a href="https://www.facebook.com/hasan.akon.5891"><img height="75" src="https://i.ibb.co/MkLPMvs/Facebook.png"></a>
-   <a href="https://x.com/akonhasan680"><img height="75" src="https://i.ibb.co/k9dnqh3/Twitter.png"></a>
+  <a  href="https://www.linkedin.com/in/md-hasan-b6523b220/"><img height="60" src="https://i.ibb.co/mSWzG5k/Linkedin.png"></a>
+   <a href="https://www.facebook.com/hasan.akon.5891"><img height="60" src="https://i.ibb.co/MkLPMvs/Facebook.png"></a>
+   <a href="https://x.com/akonhasan680"><img height="60" src="https://i.ibb.co/k9dnqh3/Twitter.png"></a>
 
 </p>
 
