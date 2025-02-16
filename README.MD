@@ -71,20 +71,14 @@
   </div>
 </p>
 
-<br/>
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
   <h2 align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
   Let's Connect
 </h2>
 
-<br/>
+
 <p align="center">
   <a  href="https://www.linkedin.com/in/md-hasan-b6523b220/"><img height="75" src="https://i.ibb.co/mSWzG5k/Linkedin.png"></a>
    <a href="https://www.facebook.com/hasan.akon.5891"><img height="75" src="https://i.ibb.co/MkLPMvs/Facebook.png"></a>
