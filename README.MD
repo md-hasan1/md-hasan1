@@ -56,11 +56,15 @@
 <p align="center">
  <img align="right" width="350" src="https://raw.githubusercontent.com/alsiam/alsiam/main/assets/programmer.gif" alt="Coding gif" />
   
- ✌️ &emsp; Enjoy programming and sharing knowledge <br/>
- ❤️ &emsp; Love writing code and learning new features<br/>
- ❤️ &emsp; Passionate about coding challenges<br/>
- 📫 &emsp; Exploring advanced graphics and technology<br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/md-hasan-akon1/issues)
+  <div style="flex: 1;">
+    <p align="left" style="margin-left: 20px;">
+      <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="30" /> &nbsp;Passionate about clean, efficient code<br/>
+      <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" /> &nbsp;Currently mastering advanced Node.js patterns<br/>
+      <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30" /> &nbsp;Love solving complex backend challenges<br/>
+      <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="30" /> &nbsp;Open to collaboration on innovative projects<br/>
+      <img src="https://media.giphy.com/media/K4ZBfzvsXWZ8CDX9qJ/giphy.gif" width="30" /> &nbsp;Ask me about backend architecture & scaling
+    </p>
+  </div>
 </p>
 
 <br/>
