@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm MD HASAN</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Backend+Developer;MERN+Stack+Specialist;Open+Source+Contributor;Figma+Designer;Continuous+Learner"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Backend+Developer;MERN+Stack+Specialist;Open+Source+Contributor;Continuous+Learner"/>
 </p>
 
 <img src="https://raw.githubusercontent.com/AbtahiHasan/AbtahiHasan/main/banner.png" style="width:100%">
@@ -123,7 +123,10 @@
 
 </p>
 
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=md-hasan-akon1&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=md-hasan-akon1&theme=onestar&no-frame=true&column=4" alt="GitHub Trophies"/>
+</p>
 
 
 
