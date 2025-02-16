@@ -97,7 +97,7 @@
 
 
 
-### 📊 GitHub Stats:
+<h3 align="center">📊 GitHub Stats:</h3>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=md-hasan-akon1&theme=radical&hide_border=true" alt="GitHub Streak"/>
 
