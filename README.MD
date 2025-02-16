@@ -97,9 +97,12 @@
 
 
 
-<p align="center">ghsdgfsdfgsdfg
-![GitHub Streak](https://streak-stats.demolab.com?user=md-hasan-akon1&theme=radical&hide_border=true)
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=md-hasan-akon1&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=md-hasan-akon1&theme=aura" alt="Top Languages"/>
 </p>
+
 
 <p align="center">
   <a href="https://github.com/md-hasan-akon1">
