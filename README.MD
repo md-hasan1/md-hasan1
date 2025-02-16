@@ -142,7 +142,7 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=md-hasan-akon1&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=md-hasan-akon1&theme=onestar&no-frame=true&column=4" alt="GitHub Trophies"/>
+   <img src="https://github-profile-trophy.vercel.app/?username=md-hasan-akon1&theme=algolia&no-frame=true&column=5" alt="GitHub Trophies"/>
 </p>
 
 
