@@ -157,5 +157,9 @@
 
 
 
+<div align="center">
+  <h2>⚡ Random Dev Joke</h2>
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+</div>
 
 
