@@ -6,6 +6,11 @@
 <img src="https://raw.githubusercontent.com/AbtahiHasan/AbtahiHasan/main/banner.png" style="width:100%">
 
 <br/>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in" alt="Random Dev Quote"/>
+</div>
+
 <p align="center mx-auto">
 
 ### 🛠 Tech Stack:
