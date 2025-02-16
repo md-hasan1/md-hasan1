@@ -5,6 +5,8 @@
     <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
   </a>
 </div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=FFFFFF" width="100%"/>
+
 <h1 align="center">Hi 👋, I'm MD HASAN</h1>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=750&height=70&lines=Backend+Developer+%F0%9F%92%BB;MERN+Stack+Specialist+%F0%9F%9A%80;Open+Source+Contributor+%E2%9C%A8;Continuous+Learner+%F0%9F%93%9A" alt="Typing SVG" />
