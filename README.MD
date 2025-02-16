@@ -150,9 +150,9 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=md-hasan-akon1&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
-<p align="center" style="margin: 20px 0;">
+
   <img src="https://github-profile-trophy.vercel.app/?username=md-hasan-akon1&theme=algolia&no-frame=true&column=7&margin-w=15" alt="GitHub Trophies"/>
-</p>
+
 </p>
 
 
