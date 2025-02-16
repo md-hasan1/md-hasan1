@@ -5,17 +5,8 @@
     <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
   </a>
 </div>
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:0000ff&height=200&section=header&text=Welcome%20to%20MD%20HASAN's%20GitHub!&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Backend%20Developer%20|%20MERN%20Specialist%20|%20Open%20Source%20Enthusiast&descAlignY=55&descAlign=62" width="100%"/>
-
-
-
-
-
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome%20to%20MD%20HASAN's%20GitHub!&fontSize=40&fontAlignY=30&animation=twinkling&fontColor=FFFFFF&desc=Backend%20Developer%20|%20MERN%20Specialist%20|%20Open%20Source%20Enthusiast&descAlignY=50&descAlign=62" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:0000ff&height=200&section=header&text=Welcome%20to%20MD%20HASAN's%20GitHub!&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Backend%20Developer%20|%20MERN%20Specialist%20|%20Open%20Source%20Enthusiast&descAlignY=55&descAlign=62" width="100%"/>
 
 <h1 align="center">Hi 👋, I'm MD HASAN</h1>
 <div align="center">
