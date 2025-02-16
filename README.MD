@@ -5,8 +5,25 @@
     <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
   </a>
 </div>
+
+
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome%20to%20MD%20HASAN's%20GitHub!&fontSize=40&fontAlignY=30&animation=twinkling&fontColor=FFFFFF&desc=Backend%20Developer%20|%20MERN%20Specialist%20|%20Open%20Source%20Enthusiast&descAlignY=50&descAlign=62" width="100%"/>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+MD+HASAN;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  </a>
+</h1>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=750&height=70&lines=Backend+Developer+%F0%9F%92%BB;MERN+Stack+Specialist+%F0%9F%9A%80;Open+Source+Contributor+%E2%9C%A8;Continuous+Learner+%F0%9F%93%9A" alt="Typing SVG" />
+</div>
+
+<img src="https://raw.githubusercontent.com/AbtahiHasan/AbtahiHasan/main/banner.png" style="width:100%">
+
+
+
+
 <h1 align="center">Hi 👋, I'm MD HASAN</h1>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=750&height=70&lines=Backend+Developer+%F0%9F%92%BB;MERN+Stack+Specialist+%F0%9F%9A%80;Open+Source+Contributor+%E2%9C%A8;Continuous+Learner+%F0%9F%93%9A" alt="Typing SVG" />
