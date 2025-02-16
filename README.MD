@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm MD HASAN</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Backend+Developer;MERN+Stack+Specialist;Open+Source+Contributor;Continuous+Learner"/>
+</p>
 
 <img src="https://raw.githubusercontent.com/AbtahiHasan/AbtahiHasan/main/banner.png" style="width:100%">
 
@@ -15,9 +18,7 @@
 </p>
 
 <br/>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Backend+Developer;MERN+Stack+Specialist;Open+Source+Contributor;Continuous+Learner"/>
-</p>
+
 
 
 <!-- - 🔭 I’m currently working on Tailwindcss javascript [AbtahiHasan](https://www.abtahihasan.com)
