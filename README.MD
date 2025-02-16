@@ -10,7 +10,9 @@
 
 <h1 align="center">Hi 👋, I'm MD HASAN</h1>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=750&height=70&lines=Backend+Developer+%F0%9F%92%BB;MERN+Stack+Specialist+%F0%9F%9A%80;Open+Source+Contributor+%E2%9C%A8;Continuous+Learner+%F0%9F%93%9A" alt="Typing SVG" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=750&height=70&lines=Backend+Development+Virtuoso+%F0%9F%92%BB;MERN+Stack+Architecture+Master+%F0%9F%9A%80;API+Design+%26+System+Scaling+Expert+%E2%9C%A8;Performance+Optimization+Specialist+%F0%9F%93%88;Database+Design+%26+Security+Pro+%F0%9F%94%92" alt="Typing SVG" />
+</div>
 </div>
 
 <img src="https://raw.githubusercontent.com/AbtahiHasan/AbtahiHasan/main/banner.png" style="width:100%">
