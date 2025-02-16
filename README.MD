@@ -98,7 +98,7 @@
 
 
 <p align="center">ghsdgfsdfgsdfg
-<a href="https://github.com/md-hasan-akon1"><img src="https://streak-stats.demolab.com?user=md-hasan-akon1&theme=radical&hide_border=true&border_radius=10&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&card_width=514&type=png" alt="GitHub Streak" /></a>
+![GitHub Streak](https://streak-stats.demolab.com?user=md-hasan-akon1&theme=radical&hide_border=true)
 </p>
 
 <p align="center">
