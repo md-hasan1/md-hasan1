@@ -71,8 +71,6 @@
   </div>
 </p>
 
-
-<br/>
   <h2 align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
   Let's Connect
