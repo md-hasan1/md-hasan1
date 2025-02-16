@@ -124,22 +124,6 @@
 </p>
 
 
-<p align="center">
-  <a href="https://github.com/md-hasan-akon1">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=md-hasan-akon1&theme=aura" alt=" md Hasan's GitHub Contribution"/>
-  </a>
-</p>
-
-<a> 
-    <a href="https://github.com/md-hasan-akon1"><img alt=Md Hasan Github Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=md-hasan-akon1&theme=aura" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/md-hasan-akon1"><img alt="Md Hasan Top Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=md-hasan-akon1&theme=aura" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
-<a> 
-    <a href="https://github.com/md-hasan-akon1"><img alt="Md Hasan Github Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=md-hasan-akon1&theme=aura" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/md-hasan-akon1"><img alt="Md Hasan Top Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=md-hasan-akon1&theme=aura&utcOffset=8" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
 
 
 
