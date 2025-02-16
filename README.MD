@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MD HASAN</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Backend+Developer;MERN+Stack+Specialist;Open+Source+Contributor;Continuous+Learner"/>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=750&height=70&lines=Backend+Developer+%F0%9F%92%BB;MERN+Stack+Specialist+%F0%9F%9A%80;Open+Source+Contributor+%E2%9C%A8;Continuous+Learner+%F0%9F%93%9A" alt="Typing SVG" />
+</div>
 
 <img src="https://raw.githubusercontent.com/AbtahiHasan/AbtahiHasan/main/banner.png" style="width:100%">
 
