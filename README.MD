@@ -5,8 +5,8 @@
     <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
   </a>
 </div>
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:0000ff&height=200&section=header&text=Welcome%20to%20MD%20HASAN's%20GitHub!&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Backend%20Developer%20|%20MERN%20Specialist%20|%20Open%20Source%20Enthusiast&descAlignY=55&descAlign=62" width="100%"/>
+<!-- Animated Gradient Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20to%20MD%20HASAN's%20Universe&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Backend%20Developer%20|%20MERN%20Specialist%20|%20Code%20Architect&descAlignY=55&descAlign=62" width="100%"/>
 
 <h1 align="center">Hi 👋, I'm MD HASAN</h1>
 <div align="center">
