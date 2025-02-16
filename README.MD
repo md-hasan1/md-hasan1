@@ -47,19 +47,24 @@
 - 👨‍💻 All of my projects are available at [https://portfolio.abtahihasan.com](https://portfolio.abtahihasan.com) -->
 
 
-<!-- About Section -->
- # About me
- 
-<p>
+<!-- About Me Section -->
+<h2 align="center">🚀 About Me</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00FFFF&center=true&multiline=true&width=600&height=100&lines=Passionate+Backend+Developer;Crafting+Efficient+and+Scalable+Solutions;Always+Learning%2C+Always+Growing" alt="About Me Typing SVG" />
+</p>
+
+<p align="center">
  <img align="right" width="350" src="https://raw.githubusercontent.com/alsiam/alsiam/main/assets/programmer.gif" alt="Coding gif" />
   
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/>
- ❤️ &emsp; Love to writing code and learning new features<br/>
- ❤️ &emsp; Love to coding challenge<br/>
- 📫 &emsp; Love to  exploring Advance graphics and technology.<br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/md-hasan-akon1)
-
+ ✌️ &emsp; Enjoy programming and sharing knowledge <br/>
+ ❤️ &emsp; Love writing code and learning new features<br/>
+ ❤️ &emsp; Passionate about coding challenges<br/>
+ 📫 &emsp; Exploring advanced graphics and technology<br/>
+ 💬 &emsp; Ask me about anything [here](https://github.com/md-hasan-akon1/issues)
 </p>
+
+<br/>
 
 <br/>
 <br/>
