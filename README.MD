@@ -145,27 +145,13 @@
 
 <h3 align="center">📊 GitHub Stats:</h3>
 <p align="center">
-  <!-- 🔧 Fixed alt text spelling from "cuntributions" to "Contributions" -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=md-hasan1&theme=tokyonight&border_radius=10" alt="GitHub Contributions"/>
-
-  <!-- 🧠 Language stats -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=md-hasan1&theme=tokyonight&border_radius=10" alt="GitHub Contribution"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=md-hasan1&theme=tokyonight&border_radius=10"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=md-hasan1&theme=tokyonight&border_radius=10"/>
-
-  <!-- 📊 General stats -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=md-hasan1&theme=tokyonight&border_radius=10"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=md-hasan1&theme=tokyonight&utcOffset=8&border_radius=10"/>
-
-  <!-- 🔥 GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-hasan1&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-  <!-- 🧪 NEW: Contribution Graph -->
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=md-hasan1&theme=tokyonight&hide_border=true" alt="GitHub Contribution Graph"/>
-
-  <!-- 🏆 NEW: GitHub Trophy Card -->
-  <img src="https://github-profile-trophy.vercel.app/?username=md-hasan1&theme=tokyonight&no-bg=true&margin-w=10&no-frame=true" alt="GitHub Trophies"/>
 </p>
-
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=md-hasan1&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
