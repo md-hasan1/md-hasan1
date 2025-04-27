@@ -150,40 +150,14 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=md-hasan1&theme=tokyonight&border_radius=10"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=md-hasan1&theme=tokyonight&border_radius=10"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=md-hasan1&theme=tokyonight&utcOffset=8&border_radius=10"/>
-
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-hasan1&theme=tokyonight&border_radius=10" alt="GitHub Streak"/>
 
 
 
 
 
 ------------------------------------------------------------------------------
-<!-- Profile Details -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=md-hasan1&theme=tokyonight&border_radius=10" alt="GitHub Contribution"/>
 
-<!-- Repositories per Language -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=md-hasan1&theme=tokyonight&border_radius=10"/>
-
-<!-- Most Commit Language -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=md-hasan1&theme=tokyonight&border_radius=10"/>
-
-<!-- Stats -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=md-hasan1&theme=tokyonight&border_radius=10"/>
-
-<!-- Productive Time -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=md-hasan1&theme=tokyonight&utcOffset=8&border_radius=10"/>
-
-<!-- 🔥 Streak Stats (This is the new one you wanted) -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=md-hasan1&theme=tokyonight&border_radius=10" alt="GitHub Streak"/>
-
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=md-hasan1&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=md-hasan1&theme=algolia&no-frame=true&column=7&margin-w=15" alt="GitHub Trophies"/>
-
-</p>
 
 
 
