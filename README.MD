@@ -1,5 +1,5 @@
 <!-- Add this in your README.md head section for animations -->
-### Md Hasan Akon
+
 <div align="center">
   <!-- Particle Effect for Background -->
   <a href="https://github.com/md-hasan1">
