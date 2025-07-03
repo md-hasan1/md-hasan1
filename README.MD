@@ -144,24 +144,6 @@
 
 
 
-<h3 align="center">📊 GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=md-hasan1&theme=tokyonight&border_radius=10" alt="GitHub Contribution"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=md-hasan1&theme=tokyonight&border_radius=10"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=md-hasan1&theme=tokyonight&border_radius=10"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=md-hasan1&theme=tokyonight&border_radius=10"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=md-hasan1&theme=tokyonight&utcOffset=8&border_radius=10"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-hasan1&theme=tokyonight&border_radius=10" alt="GitHub Streak"/>
-
-
-![Stats](https://github-readme-stats.vercel.app/api?username=md-hasan1&show_icons=true&count_private=true&theme=radical)
-
-![Streak](https://streak-stats.demolab.com/?user=md-hasan1&theme=radical&count_private=true)
-
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=md-hasan1&layout=compact&theme=radical)
-
-
-------------------------------------------------------------------------------
 
 
 
