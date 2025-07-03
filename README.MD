@@ -49,9 +49,6 @@
 </p>
 
 <br/>
-
-
-
 <!-- - 🔭 I’m currently working on Tailwindcss javascript [AbtahiHasan](https://www.abtahihasan.com)
 
 - 👨‍💻 All of my projects are available at [https://portfolio.abtahihasan.com](https://portfolio.abtahihasan.com) -->
@@ -81,27 +78,17 @@
     </p>
   </div>
 </p>
-
   <h2 align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
   Let's Connect
 </h2>
-
-
 <p align="center">
   <a  href="https://www.linkedin.com/in/md-hasan-b6523b220/"><img height="60" src="https://i.ibb.co/mSWzG5k/Linkedin.png"></a>
    <a href="https://www.facebook.com/hasan.akon.5891"><img height="60" src="https://i.ibb.co/MkLPMvs/Facebook.png"></a>
    <a href="https://x.com/akonhasan680"><img height="60" src="https://i.ibb.co/k9dnqh3/Twitter.png"></a>
-
 </p>
 
-
-
-
-
 <h3 align="center">Languages and Tools That I Know:</h3>
-
-
 <p align="center">
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -141,13 +128,6 @@
 <br/>
 <hr/>
 <br/>
-
-
-
-
-
-
-
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
@@ -162,20 +142,6 @@
   <!-- Use only ONE working streak badge -->
   <img src="https://streak-stats.demolab.com?user=md-hasan1&theme=tokyonight&count_private=true&border_radius=10" alt="GitHub Streak" />
 </p>
-
----
-
-<h2 align="center">📈 More GitHub Insights</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=md-hasan1&show_icons=true&count_private=true&theme=radical" alt="Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-hasan1&layout=compact&theme=radical" alt="Top Langs" />
-</p>
-
-
-
-
 <div align="center">
   <h2>⚡ Random Dev Joke</h2>
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
