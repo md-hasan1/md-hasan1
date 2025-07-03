@@ -1,8 +1,10 @@
+## 🧠 GitHub Stats
 
-## 🔥 GitHub Streak
+![Stats](https://github-readme-stats.vercel.app/api?username=md-hasan1&show_icons=true&count_private=true&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=md-hasan1&theme=radical&count_private=true)
+![Streak](https://streak-stats.demolab.com/?user=md-hasan1&theme=radical&count_private=true)
 
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=md-hasan1&layout=compact&theme=radical)
 
 
 
