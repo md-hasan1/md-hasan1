@@ -1,14 +1,3 @@
-## 🧠 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=md-hasan1&show_icons=true&count_private=true&theme=radical)
-
-![Streak](https://streak-stats.demolab.com/?user=md-hasan1&theme=radical&count_private=true)
-
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=md-hasan1&layout=compact&theme=radical)
-
-
-
-
 <!-- Add this in your README.md head section for animations -->
 
 <div align="center">
@@ -165,7 +154,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-hasan1&theme=tokyonight&border_radius=10" alt="GitHub Streak"/>
 
 
+![Stats](https://github-readme-stats.vercel.app/api?username=md-hasan1&show_icons=true&count_private=true&theme=radical)
+
 ![Streak](https://streak-stats.demolab.com/?user=md-hasan1&theme=radical&count_private=true)
+
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=md-hasan1&layout=compact&theme=radical)
 
 
 ------------------------------------------------------------------------------
