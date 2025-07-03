@@ -1,9 +1,7 @@
 
+## 🔥 GitHub Streak
 
-
-![GitHub Streak](https://img.shields.io/badge/dynamic/json?color=informational&label=Streak&query=totalContributions&url=https://streak-stats.demolab.com?user=md-hasan1&theme=radical&count_private=true)
-
-
+![GitHub Streak](https://streak-stats.demolab.com?user=md-hasan1&theme=radical&count_private=true)
 
 
 
