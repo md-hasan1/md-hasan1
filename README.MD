@@ -165,7 +165,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-hasan1&theme=tokyonight&border_radius=10" alt="GitHub Streak"/>
 
 
-
+![Streak](https://streak-stats.demolab.com/?user=md-hasan1&theme=radical&count_private=true)
 
 
 ------------------------------------------------------------------------------
