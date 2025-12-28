@@ -74,7 +74,7 @@ const mdHasan = {
   role: "Backend Developer",
   location: "Bangladesh 🇧🇩",
   focus: ["API Architecture", "Database Design", "System Scaling"],
-  currentlyLearning: ["Advanced Node.js Patterns", "Microservices", "GraphQL"],
+  currentlyLearning: ["Advanced Node.js Patterns", "Microservices"],
   openToCollaborate: true,
   funFact: "I debug with console.log and I'm not ashamed! 😄"
 };
