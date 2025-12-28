@@ -130,15 +130,26 @@
 <br/>
 <h2 align="center">📊 GitHub Stats</h2>
 
-![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=md-hasan1&theme=tokyonight)
+<div align="center">
 
-![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=md-hasan1&theme=tokyonight)
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=md-hasan1&theme=tokyonight)
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=md-hasan1&theme=tokyonight" />
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=md-hasan1&theme=tokyonight)
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=md-hasan1&theme=tokyonight&utcOffset=8)
+  <br/><br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=md-hasan1&theme=tokyonight)
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=md-hasan1&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=md-hasan1&theme=tokyonight" />
+
+  <br/><br/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=md-hasan1&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=md-hasan1&theme=tokyonight&utcOffset=8" />
+
+  <br/><br/>
+
+  <img src="https://streak-stats.demolab.com?user=md-hasan1&theme=tokyonight" />
+
+</div>
+
 
 
 <div align="center">
