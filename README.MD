@@ -68,15 +68,40 @@
   </div>
 
   
-  <div style="flex: 1;">
-    <p align="left" style="margin-left: 20px;">
-      <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="30" /> &nbsp;Passionate about clean, efficient code<br/>
-      <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" /> &nbsp;Currently mastering advanced Node.js patterns<br/>
-      <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30" /> &nbsp;Love solving complex backend challenges<br/>
-      <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="30" /> &nbsp;Open to collaboration on innovative projects<br/>
-      <img src="https://media.giphy.com/media/K4ZBfzvsXWZ8CDX9qJ/giphy.gif" width="30" /> &nbsp;Ask me about backend architecture & scaling
-    </p>
-  </div>
+  
+   ```typescript
+const mdHasan = {
+  role: "Backend Developer",
+  location: "Bangladesh 🇧🇩",
+  focus: ["API Architecture", "Database Design", "System Scaling"],
+  currentlyLearning: ["Advanced Node.js Patterns", "Microservices", "GraphQL"],
+  openToCollaborate: true,
+  funFact: "I debug with console.log and I'm not ashamed! 😄"
+};
+```
+
+
+## 🎯 Current Focus
+
+```javascript
+const currentGoals = {
+  learning: [
+    "Advanced TypeScript Patterns",
+    "Microservices Architecture",
+    "GraphQL & Apollo Server",
+    "Redis Caching Strategies"
+  ],
+  building: [
+    "Real-time Chat Platform",
+    "E-commerce Backend API",
+    "Authentication Microservice"
+  ],
+  contributing: "Open Source Projects"
+};
+```
+
+---
+
 </p>
   <h2 align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
@@ -150,6 +175,13 @@
 
 </div>
 
+<div align="center">
+
+### ⚡ Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=md-hasan1&bg_color=0D1117&color=00F2FE&line=00C9FF&point=FFFFFF&area=true&hide_border=false&border_color=00C9FF&title_color=00F2FE" width="100%" />
+
+</div>
 
 
 <div align="center">
