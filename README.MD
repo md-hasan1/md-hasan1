@@ -130,17 +130,16 @@
 <br/>
 <h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=md-hasan1&theme=tokyonight&border_radius=10" />
-  <br />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=md-hasan1&theme=tokyonight&border_radius=10" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=md-hasan1&theme=tokyonight&border_radius=10" />
-  <br />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=md-hasan1&theme=tokyonight&border_radius=10" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=md-hasan1&theme=tokyonight&utcOffset=8&border_radius=10" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=md-hasan1&theme=tokyonight&border_radius=10" />
-</p>
+![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=md-hasan1&theme=tokyonight)
+
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=md-hasan1&theme=tokyonight)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=md-hasan1&theme=tokyonight)
+
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=md-hasan1&theme=tokyonight)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=md-hasan1&theme=tokyonight&utcOffset=8)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=md-hasan1&theme=tokyonight)
+
 
 <div align="center">
   <h2>⚡ Random Dev Joke</h2>
